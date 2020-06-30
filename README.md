@@ -1,9 +1,6 @@
 # ![left 100%](images/Logo_OpenClassrooms.png) OpenClassrooms-Développeur Web
 _`Début de formation le 20/04/2020`_
 
-<hr color="red"> 
-
-
 ### Auteur
 
 👤 **Thierry LAVAL** [🇫🇷 Contactez moi 🇬🇧](<thierrylaval@gmx.com>) 
@@ -15,20 +12,19 @@ _`Début de formation le 20/04/2020`_
 ![left 100%](./img/la-chouette-agence.png)
 ***
 
-### 🔨 Version non optimisée.
+### 🔨 Version d'origine.
 
-### Objectifs
-Analyse de l’état actuel de SEO du site fourni.
-10 recommandations pour améliorer le SEO du site.
-Amélioration du SEO du site.
-Accessibilité du site web.
-EComparaison des résultats.
+Site non optimisé : [Hébergé sur GitHub](hhttps://thierry-laval.github.io/la-chouette-agence-v1/ "Cliquez pour voir le site")
 
+#### Objectifs à réaliser
+* Analyse de l’état actuel de SEO du site fourni.
+* 10 recommandations pour améliorer le SEO du site.
+* Amélioration du SEO du site.
+* Accessibilité du site web.
+* EComparaison des résultats.
 
 ### ![left 50%](images/icons8.png) Optimiser le SEO d'un site
 
 Site optimisé : [Hébergé sur GitHub](https://thierry-laval.github.io/la-chouette-agence/ "Cliquez pour voir le site")
 
 Voir : [Le projet sur OpenClassrooms](https://openclassrooms.com/fr/paths/185/projects/638/assignment "Cliquez pour voir le projet")
-
-
