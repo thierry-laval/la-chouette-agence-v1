@@ -1,4 +1,4 @@
-# ![left 100%](images/Logo_OpenClassrooms.png) OpenClassrooms-Développeur Web
+# OpenClassrooms-Développeur Web
 _`Début de formation le 20/04/2020`_
 
 ### Auteur
@@ -23,8 +23,10 @@ Site non optimisé : [Hébergé sur GitHub](hhttps://thierry-laval.github.io/la-
 * Accessibilité du site web.
 * EComparaison des résultats.
 
-### ![left 50%](images/icons8.png) Optimiser le SEO d'un site
+```diff
+#### Optimisation du SEO du site
 
 Site optimisé : [Hébergé sur GitHub](https://thierry-laval.github.io/la-chouette-agence/ "Cliquez pour voir le site")
 
 Voir : [Le projet sur OpenClassrooms](https://openclassrooms.com/fr/paths/185/projects/638/assignment "Cliquez pour voir le projet")
+```
