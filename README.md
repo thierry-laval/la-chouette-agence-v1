@@ -14,7 +14,7 @@ _`Début de formation le 20/04/2020`_
 
 ### 🔨 Version d'origine.
 
-Site non optimisé : [Hébergé sur GitHub](hhttps://thierry-laval.github.io/la-chouette-agence-v1/ "Cliquez pour voir le site")
+Site non optimisé : [Hébergé sur GitHub](https://thierry-laval.github.io/la-chouette-agence-v1/ "Cliquez pour voir le site")
 
 #### Objectifs à réaliser
 * Analyse de l’état actuel de SEO du site fourni.
