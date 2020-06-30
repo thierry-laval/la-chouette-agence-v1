@@ -23,10 +23,8 @@ Site non optimisé : [Hébergé sur GitHub](hhttps://thierry-laval.github.io/la-
 * Accessibilité du site web.
 * EComparaison des résultats.
 
-```diff
 #### Optimisation du SEO du site
 
 Site optimisé : [Hébergé sur GitHub](https://thierry-laval.github.io/la-chouette-agence/ "Cliquez pour voir le site")
 
 Voir : [Le projet sur OpenClassrooms](https://openclassrooms.com/fr/paths/185/projects/638/assignment "Cliquez pour voir le projet")
-```
